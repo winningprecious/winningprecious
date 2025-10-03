@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi, I'm Precious 👋
 
-<!--
-**winningprecious/winningprecious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst passionate about turning raw data into clear, actionable insights.  
+I love working with Excel, SQL, Python, and Power BI to create dashboards and tell stories with data.
+I love transforming numbers into decisins that drive business growth.
 
-Here are some ideas to get you started:
+ Skills
+- Data Analysis & Visualization  
+- Excel, SQL, Power BI, Python 
+- Data Storytelling & Insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let’s Connect
+- [LinkedIn]: (https://www.linkedin.com/in/nneamaka-chinye-698888379/)  
+- Email: chinyeamprecious29@gmail.com 
