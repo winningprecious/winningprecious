@@ -11,5 +11,5 @@ I love transforming numbers into decisins that drive business growth.
 
 
 Let’s Connect
-- [LinkedIn]: (https://www.linkedin.com/in/nneamaka-chinye-698888379/)  
+- LinkedIn: https://www.linkedin.com/in/nneamaka-chinye-698888379/ 
 - Email: chinyeamprecious29@gmail.com 
