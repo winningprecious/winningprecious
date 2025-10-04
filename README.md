@@ -9,6 +9,13 @@ I love transforming numbers into decisins that drive business growth.
 - Excel, SQL, Power BI, Python 
 - Data Storytelling & Insights  
 
+Feautered Project
+
+ Wine Quality Analysis: https://github.com/winningprecious/wine-quality-analysis
+   Data analysis project using Excel and Python to explore key factors influencing wine quality ratings
+
+(I’ll keep adding more projects here as I upload them.)  
+
 
 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/nneamaka-chinye-698888379/ 
