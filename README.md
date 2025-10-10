@@ -14,7 +14,7 @@ Feautered Project
  Wine Quality Analysis: https://github.com/winningprecious/wine-quality-analysis
    Data analysis project using Excel and Python to explore key factors influencing wine quality ratings
    
- Sales Performance: https://github.com/winningprecious/Sales-Performance-Dashboard
+ Sales Performance: https://github.com/winningprecious/Sales-Performances-Dashboard
       An interactive Power BI dashboard analyzing sales performance across regions and categories, turning raw data into actionable business insights.
 
 (I’ll keep adding more projects here as I upload them.)  
