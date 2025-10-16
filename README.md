@@ -18,7 +18,7 @@ Feautered Project
       An interactive Power BI dashboard analyzing sales performance across regions and categories, turning raw data into actionable business insights.
 
 Car Market Analysis:
-https//github.com/winningprecious/Car-Market-Analysis
+https://github.com/winningprecious/Car-Market-Analysis
      A clean and interactive Excel dashboard analyzing car market data, pricing, mileage, engine size, color trends, and transmission insights. Built to showcase storytelling through data visualization
 
 (I’ll keep adding more projects here as I upload them.)  
